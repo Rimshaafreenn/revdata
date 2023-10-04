@@ -1,3 +1,2 @@
 # revdata
-## Analyzing historical revenue data
-## Creating dashboard
+Analyzing historical revenue data & Creating dashboard
